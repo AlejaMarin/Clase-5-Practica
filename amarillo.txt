@@ -1,2 +1,3 @@
 Primera linea
 Primer color de la bandera
+El color amarillo representa el sol
